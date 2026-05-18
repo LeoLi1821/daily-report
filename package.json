@@ -1,26 +1,25 @@
 {
-  "name": "trending",
+  "name": "daily-brief",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
+    "dry-run": "tsx scripts/dry-run.ts",
+    "daily": "tsx scripts/daily.ts",
+    "render": "tsx scripts/render.ts",
+    "regen-trading": "tsx scripts/regen-trading.ts",
+    "regen-enrich": "tsx scripts/regen-enrich.ts",
+    "quota-report": "tsx scripts/quota-report.ts",
+    "open": "node scripts/open-report.mjs"
   },
   "dependencies": {
-    "next": "16.2.6",
-    "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "cheerio": "^1.2.0",
+    "jsonrepair": "^3.14.0",
+    "rss-parser": "^3.13.0"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "16.2.6",
-    "tailwindcss": "^4",
+    "dotenv": "^17.4.2",
+    "tsx": "^4.21.0",
     "typescript": "^5"
   }
 }
