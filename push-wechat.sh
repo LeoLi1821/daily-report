@@ -7,7 +7,7 @@ set -e
 cd "$(dirname "$0")"
 
 # ========== 配置区 ==========
-FEISHU_WEBHOOK="https://open.feishu.cn/open-apis/bot/v2/hook/13897b87-b4fc-4b00-b76c-6aa03d848488"
+FEISHU_WEBHOOK="${FEISHU_WEBHOOK:-https://open.feishu.cn/open-apis/bot/v2/hook/13897b87-b4fc-4b00-b76c-6aa03d848488}"
 FEISHU_MAX_CHARS=3500  # 飞书单条消息上限约4096，留余量
 # ============================
 

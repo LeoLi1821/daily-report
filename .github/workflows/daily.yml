@@ -236,6 +236,12 @@ jobs:
       - name: Build static site (index + archive)
         run: npm run build-site
 
+      - name: Push to Feishu
+        if: ${{ secrets.FEISHU_WEBHOOK }}
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: bash push-wechat.sh
+
       - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
