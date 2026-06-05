@@ -1,0 +1,39 @@
+[daily] 2026-06-05 — fetching sources…
+
+  github-trending      13
+  v2ex-hot             25
+  linuxdo              25
+  openai-news          30
+  deepmind-blog        30
+  huggingface-blog     30
+  huggingface-papers   30
+  tldr-ai              20
+  smol-ai-news         30
+  latent-space         20
+  mit-tech-review-ai   10
+  attentionvc-ai       15
+  bloomberg-markets    30
+  wsj-markets          20
+  ft-companies         FAILED — Request timed out after 15000ms
+  bbc-business         30
+  economist-finance    30
+
+[daily] total articles: 388
+[daily] enriching 13 GitHub Trending repos with zh summaries…
+[daily] enrichment done in 18.9s, matched 13/13
+[daily] enriching 20 trending papers with zh summaries…
+[daily] enrichment done in 39.9s, matched 20/20
+[daily] enriching 12/12 finance:news items with zh summaries…
+[daily] enrichment done in 17.4s, matched 12/12
+[daily] enriching 15/15 tech:ai-news items with zh summaries…
+[daily] enrichment done in 17.8s, matched 15/15
+[daily] enriching 15 X posts with zh summaries…
+[daily] enrichment done in 30.4s, matched 15/15
+[daily] analyzing watchlist + crypto context (Yahoo / alt.me / CoinGecko)…
+[daily] indicators ready in 12.0s — 21 tickers, F&G 12, BTC dom 55.8%
+[daily] generating trading commentary with zhipu-claude-sonnet-4-6…
+[daily] trading commentary ready in 23.3s
+[daily] generating digest with zhipu-claude-sonnet-4-6…
+[daily] digest ready in 40.2s
+[daily] wrote daily_reports/2026-06-05/2026-06-05.{json,html,articles.json}
+[daily] done.

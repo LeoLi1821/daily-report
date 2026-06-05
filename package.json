@@ -13,7 +13,8 @@
     "sources:check": "tsx scripts/sources.ts check",
     "deploy": "node scripts/deploy.mjs",
     "build-site": "node scripts/build-site.mjs",
-    "open": "node scripts/open-report.mjs"
+    "open": "node scripts/open-report.mjs",
+    "desktop": "bash daily-to-desktop.sh"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.96.0",
@@ -26,6 +27,7 @@
     "@types/node": "^20",
     "dotenv": "^17.4.2",
     "tsx": "^4.21.0",
-    "typescript": "^5"
+    "typescript": "^5",
+    "wrangler": "^4.98.0"
   }
 }
