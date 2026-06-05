@@ -237,10 +237,14 @@ jobs:
         run: npm run build-site
 
       - name: Push to Feishu
-        if: ${{ secrets.FEISHU_WEBHOOK }}
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
-        run: bash push-wechat.sh
+        run: |
+          if [ -n "$FEISHU_WEBHOOK" ]; then
+            bash push-wechat.sh
+          else
+            echo "FEISHU_WEBHOOK not set — skipping Feishu push"
+          fi
 
       - name: Publish to gh-pages
         uses: peaceiris/actions-gh-pages@v4
