@@ -81,7 +81,7 @@
     "category": "tech",
     "subcategory": "ai-news",
     "lang": "zh",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh"
     ]
