@@ -246,6 +246,71 @@
     ]
   },
   {
+    "id": "google-ai-blog",
+    "name": "Google AI Blog",
+    "type": "rss",
+    "url": "https://ai.googleblog.com/feeds/posts/default",
+    "category": "tech",
+    "subcategory": "ai-news",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "id": "microsoft-research",
+    "name": "Microsoft Research",
+    "type": "rss",
+    "url": "https://www.microsoft.com/en-us/research/feed/",
+    "category": "tech",
+    "subcategory": "ai-news",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "id": "nvidia-blog",
+    "name": "NVIDIA Blog",
+    "type": "rss",
+    "url": "https://blogs.nvidia.com/feed/",
+    "category": "tech",
+    "subcategory": "ai-news",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "id": "bair-blog",
+    "name": "BAIR Blog (Berkeley AI Research)",
+    "type": "rss",
+    "url": "https://bair.berkeley.edu/blog/feed.xml",
+    "category": "tech",
+    "subcategory": "ai-news",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "id": "stanford-ai-lab",
+    "name": "Stanford AI Lab",
+    "type": "rss",
+    "url": "https://ai.stanford.edu/blog/feed.xml",
+    "category": "tech",
+    "subcategory": "ai-news",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ]
+  },
+  {
     "id": "attentionvc-ai",
     "name": "X 推文 (AttentionVC)",
     "type": "api",
@@ -277,8 +342,8 @@
     "type": "rss",
     "url": "https://feeds.arstechnica.com/arstechnica/index",
     "category": "tech",
-    "subcategory": "overseas-news",
-    "enabled": false,
+    "subcategory": "ai-news",
+    "enabled": true,
     "locales": [
       "zh",
       "en"
@@ -366,8 +431,8 @@
     "type": "rss",
     "url": "https://techcrunch.com/feed/",
     "category": "tech",
-    "subcategory": "overseas",
-    "enabled": false,
+    "subcategory": "ai-news",
+    "enabled": true,
     "locales": [
       "zh",
       "en"
@@ -379,8 +444,8 @@
     "type": "rss",
     "url": "https://www.theverge.com/rss/index.xml",
     "category": "tech",
-    "subcategory": "overseas",
-    "enabled": false,
+    "subcategory": "ai-news",
+    "enabled": true,
     "locales": [
       "zh",
       "en"
@@ -392,8 +457,8 @@
     "type": "rss",
     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "category": "tech",
-    "subcategory": "overseas",
-    "enabled": false,
+    "subcategory": "ai-news",
+    "enabled": true,
     "locales": [
       "zh",
       "en"
@@ -599,7 +664,7 @@
     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "category": "politics",
     "subcategory": "world",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh",
       "en"
@@ -612,7 +677,7 @@
     "url": "https://www.theguardian.com/world/rss",
     "category": "politics",
     "subcategory": "world",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh",
       "en"
@@ -625,7 +690,7 @@
     "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
     "category": "politics",
     "subcategory": "world",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh",
       "en"
@@ -638,7 +703,7 @@
     "url": "https://feeds.npr.org/1004/rss.xml",
     "category": "politics",
     "subcategory": "world",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh",
       "en"
@@ -651,7 +716,7 @@
     "url": "https://rss.dw.com/rdf/rss-chi-all",
     "category": "politics",
     "subcategory": "world",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh"
     ]
@@ -663,7 +728,7 @@
     "url": "https://www.aljazeera.com/xml/rss/all.xml",
     "category": "politics",
     "subcategory": "world",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh",
       "en"
@@ -676,7 +741,7 @@
     "url": "https://thediplomat.com/feed/",
     "category": "politics",
     "subcategory": "world",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh",
       "en"
