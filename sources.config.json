@@ -81,9 +81,62 @@
     "category": "tech",
     "subcategory": "ai-news",
     "lang": "zh",
-    "enabled": false,
+    "enabled": true,
     "locales": [
       "zh"
+    ]
+  },
+  {
+    "id": "synced-ai",
+    "name": "机器之心",
+    "type": "rss",
+    "url": "https://syncedreview.com/feed",
+    "category": "tech",
+    "subcategory": "ai-news",
+    "lang": "zh",
+    "enabled": true,
+    "locales": [
+      "zh"
+    ],
+    "notes": "需用RSSHub或微信公众号RSS转换服务替代"
+  },
+  {
+    "id": "marktechpost",
+    "name": "MarkTechPost",
+    "type": "rss",
+    "url": "https://www.marktechpost.com/feed/",
+    "category": "tech",
+    "subcategory": "ai-news",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "id": "venturebeat-ai",
+    "name": "VentureBeat AI",
+    "type": "rss",
+    "url": "https://venturebeat.com/category/ai/feed",
+    "category": "tech",
+    "subcategory": "ai-news",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "id": "semianalysis",
+    "name": "Semianalysis",
+    "type": "rss",
+    "url": "https://www.semianalysis.com/feed",
+    "category": "tech",
+    "subcategory": "ai-news",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
     ]
   },
   {
