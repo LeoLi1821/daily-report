@@ -6,220 +6,220 @@
       "title": "Zackriya-Solutions/meetily",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "excerpt": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &",
-      "meta": "Rust · ★ 17,021 · 🍴 1,803 · 📈 1,409 stars today",
+      "meta": "Rust · ★ 17,056 · 🍴 1,804 · 📈 1,409 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于 Rust 开发的隐私优先 AI 会议助手，集成 Parakeet/Whisper 实时转录、说话人分离及 Ollama 摘要。支持 100% 本地处理，无需云端，适合注重数据隐私的会议记录场景。"
+      "summary": "基于 Rust 构建的隐私优先 AI 会议助手，利用 Parakeet/Whisper 进行 4 倍速实时转录与说话人分离，通过 Ollama 本地生成摘要。数据完全在本地处理，无需云端，适合对隐私要求高的会议记录场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "excerpt": "Use Codex from Claude Code to review code or delegate tasks.",
-      "meta": "JavaScript · ★ 25,473 · 🍴 1,539 · 📈 1,532 stars today",
+      "meta": "JavaScript · ★ 25,489 · 🍴 1,539 · 📈 1,532 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "允许在 Claude Code 中使用 Codex 模型，用于代码审查或委派开发任务，扩展了 Claude 的编码能力。"
+      "summary": "允许在 Claude Code 中集成并使用 Codex，用于代码审查或委托开发任务，增强了多模型协同工作的能力，适合需要跨平台 AI 辅助编程的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "excerpt": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "meta": "JavaScript · ★ 49,966 · 🍴 8,180 · 📈 981 stars today",
+      "meta": "JavaScript · ★ 49,992 · 🍴 8,181 · 📈 981 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "提取了 Anthropic、OpenAI 和 Google 等主流 AI 模型的系统提示词，包括 Claude、ChatGPT、Gemini 等版本，供研究 Prompt 内部机制使用。"
+      "summary": "汇集了从 Anthropic（Claude 系列、Claude Code）、OpenAI（ChatGPT、Codex）及 Google（Gemini）等主流 AI 模型中提取的内部系统提示词，供研究人员和开发者参考模型底层逻辑。"
     },
     {
       "sourceId": "github-trending",
       "title": "Leonxlnx/taste-skill",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "excerpt": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
-      "meta": "JavaScript · ★ 57,500 · 🍴 3,935 · 📈 863 stars today",
+      "meta": "JavaScript · ★ 57,526 · 🍴 3,936 · 📈 863 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "通过提示词工程优化 AI 生成质量，防止 AI 输出平庸、通用的内容，赋予 AI 更好的“品味”，适合提升创意写作和代码生成效果。"
+      "summary": "一款 Claude Code 技能包，旨在提升 AI 生成内容的品味，有效阻止 AI 产出无聊、通用的套话，适用于需要高质量、个性化文本创作的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "excerpt": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commerc",
-      "meta": "Python · ★ 20,574 · 🍴 2,794 · 📈 392 stars today",
+      "meta": "Python · ★ 20,583 · 🍴 2,794 · 📈 392 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "包含 337 个 Claude Code 技能、Agent 技能及插件，集成了自定义命令、脚本和参考资源，兼容 Claude Code、Cursor、Gemini CLI 等多种编码工具。"
+      "summary": "包含 337 个 Claude Code 技能及代理配置，涵盖 30 多个代理、70 多个自定义命令和 330 多项技能。支持 Codex、Gemini CLI、Cursor 等多种编程助手，大幅扩展 AI 编程工具的功能边界。"
     },
     {
       "sourceId": "github-trending",
       "title": "rommapp/romm",
       "url": "https://github.com/rommapp/romm",
       "excerpt": "A beautiful, powerful, self-hosted rom manager and player.",
-      "meta": "Python · ★ 10,542 · 🍴 505 · 📈 410 stars today",
+      "meta": "Python · ★ 10,549 · 🍴 505 · 📈 410 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "美观强大的自托管 ROM 管理器和模拟器前端，支持游戏库管理、元数据抓取及在线游玩，适合复古游戏玩家搭建私人游戏平台。"
+      "summary": "美观且强大的自托管游戏 ROM 管理与模拟器前端。支持用户在本地服务器上整理、浏览并直接游玩经典游戏，适合复古游戏爱好者构建私人游戏库。"
     },
     {
       "sourceId": "github-trending",
       "title": "ogulcancelik/herdr",
       "url": "https://github.com/ogulcancelik/herdr",
       "excerpt": "agent multiplexer that lives in your terminal.",
-      "meta": "Rust · ★ 12,073 · 🍴 702 · 📈 651 stars today",
+      "meta": "Rust · ★ 12,085 · 🍴 702 · 📈 651 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "运行在终端中的 Agent 多路复用器，允许用户同时管理和控制多个 AI Agent，提升终端环境下的多任务并行处理效率。"
+      "summary": "运行在终端中的代理多路复用器，允许用户同时管理和控制多个 AI 代理，提升命令行环境下的任务并行处理效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "alibaba/page-agent",
       "url": "https://github.com/alibaba/page-agent",
       "excerpt": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "meta": "TypeScript · ★ 23,891 · 🍴 2,060 · 📈 805 stars today",
+      "meta": "TypeScript · ★ 23,907 · 🍴 2,061 · 📈 805 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于 JavaScript 的页面级 GUI Agent，能够理解自然语言指令并直接操作 Web 界面，实现网页自动化控制和交互，适合 RPA 和浏览器自动化测试。"
+      "summary": "阿里巴巴开源的 JavaScript 页面 GUI 代理，支持用自然语言指令直接控制网页界面交互，自动化 Web 操作流程，适合 RPA 和浏览器自动化测试场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "harvard-edge/cs249r_book",
       "url": "https://github.com/harvard-edge/cs249r_book",
       "excerpt": "Machine Learning Systems",
-      "meta": "Python · ★ 26,848 · 🍴 3,193 · 📈 329 stars today",
+      "meta": "Python · ★ 26,856 · 🍴 3,194 · 📈 329 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "哈佛大学《机器学习系统》课程教材，涵盖了 ML 系统设计、训练优化及部署架构等核心内容，适合深入研究机器学习系统工程。"
+      "summary": "哈佛大学课程《Machine Learning Systems》的配套教材，深入讲解机器学习系统的设计与架构，适合学习如何构建和优化 ML 系统的学生与工程师。"
     },
     {
       "sourceId": "github-trending",
       "title": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "excerpt": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "meta": "Python · ★ 37,131 · 🍴 3,766 · 📈 1,114 stars today",
+      "meta": "Python · ★ 37,145 · 🍴 3,768 · 📈 1,114 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源 AI 渗透测试工具，利用大模型自动发现并修复应用程序漏洞，辅助安全研究人员进行漏洞扫描和风险评估。"
+      "summary": "开源 AI 渗透测试工具，自动扫描并发现应用程序的安全漏洞，并提供修复建议，适合开发者和安全团队用于提升应用安全性。"
     },
     {
       "sourceId": "github-trending",
       "title": "hesreallyhim/awesome-claude-code",
       "url": "https://github.com/hesreallyhim/awesome-claude-code",
       "excerpt": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer to",
-      "meta": "Python · ★ 48,366 · 🍴 4,232 · 📈 148 stars today",
+      "meta": "Python · ★ 48,373 · 🍴 4,232 · 📈 148 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "精心挑选的 Claude Code 资源合集，涵盖了最佳实践、工具和配置，旨在帮助开发者最大化利用 Anthropic 的编程 AI 伴侣。"
+      "summary": "精选的 Claude Code 资源列表，汇集了各类插件、技能和最佳实践，帮助开发者充分发挥 Anthropic 这款命令行 AI 编程伴侣的潜力。"
     },
     {
       "sourceId": "github-trending",
       "title": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "excerpt": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "meta": "JavaScript · ★ 36,435 · 🍴 5,896 · 📈 145 stars today",
+      "meta": "JavaScript · ★ 36,445 · 🍴 5,897 · 📈 145 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为 Claude Code 和 AI Agent 定制的营销技能包，涵盖转化率优化、文案写作、SEO 分析及增长工程，辅助自动化数字营销任务。"
+      "summary": "专为 Claude Code 和 AI 代理设计的营销技能包，涵盖转化率优化（CRO）、文案写作、SEO 分析及增长工程，辅助 AI 完成营销任务。"
     },
     {
       "sourceId": "github-trending",
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "excerpt": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-      "meta": "JavaScript · ★ 84,874 · 🍴 4,719 · 📈 1,052 stars today",
+      "meta": "JavaScript · ★ 84,883 · 🍴 4,720 · 📈 1,052 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个 Claude Code 技能，通过模拟原始简化的语言模式将对话 Token 消耗减少 65%，在保持功能的同时显著降低 API 调用成本。"
+      "summary": "一个有趣的 Claude Code 技能，通过模拟原始人的简化语言风格与 AI 交流，能削减高达 65% 的 Token 消耗，适合需要降低 API 成本的场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "CoplayDev/unity-mcp",
       "url": "https://github.com/CoplayDev/unity-mcp",
       "excerpt": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
-      "meta": "C# · ★ 11,926 · 🍴 1,278 · 📈 414 stars today",
+      "meta": "C# · ★ 11,931 · 🍴 1,278 · 📈 414 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "连接 AI 助手与 Unity 编辑器的桥接工具，赋予 LLM 管理资源、控制场景、编辑脚本及自动化任务的能力，提升 Unity 开发效率。"
+      "summary": "Unity MCP 协议工具，作为 AI 助手与 Unity 编辑器的桥梁，让 LLM 能直接管理资源、控制场景、编辑脚本并自动化游戏开发任务。"
     },
     {
       "sourceId": "github-trending",
       "title": "facebook/astryx",
       "url": "https://github.com/facebook/astryx",
       "excerpt": "An open source design system that's fully customizable and agent ready",
-      "meta": "TypeScript · ★ 5,889 · 🍴 374 · 📈 522 stars today",
+      "meta": "TypeScript · ★ 5,903 · 🍴 374 · 📈 522 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Facebook 开源的设计系统，具备高度可定制性，并针对 AI Agent 交互进行了优化，便于构建由 AI 驱动或管理的用户界面。"
+      "summary": "Facebook 开源的设计系统，具备高度可定制性且专为 AI 代理就绪，方便开发者构建统一 UI 并支持智能界面的自动化生成与管理。"
     },
     {
       "sourceId": "github-trending",
       "title": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
       "excerpt": "High performance self-hosted photo and video management solution.",
-      "meta": "TypeScript · ★ 106,118 · 🍴 6,057 · 📈 470 stars today",
+      "meta": "TypeScript · ★ 106,129 · 🍴 6,059 · 📈 470 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "高性能自托管照片和视频管理解决方案，支持移动端备份、AI 识别分类及浏览，是 Google Photos 等云服务的开源替代品。"
+      "summary": "高性能自托管照片和视频管理解决方案，支持移动端备份、AI 识别及浏览，适合搭建私有云相册以替代 Google Photos 等服务。"
     },
     {
       "sourceId": "github-trending",
       "title": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "excerpt": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "meta": "Rust · ★ 76,724 · 🍴 10,284 · 📈 161 stars today",
+      "meta": "Rust · ★ 76,729 · 🍴 10,284 · 📈 161 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "利用普通 WiFi 信号实现实时空间感知、生命体征监测和存在检测，无需摄像头，适合安防监控及智能家居隐私保护场景。"
+      "summary": "利用普通 WiFi 信号实现实时空间智能、生命体征监测和存在检测，无需任何摄像头。适用于隐私敏感区域的安防监控与健康管理。"
     },
     {
       "sourceId": "github-trending",
       "title": "gastownhall/gastown",
       "url": "https://github.com/gastownhall/gastown",
       "excerpt": "Gas Town - multi-agent workspace manager",
-      "meta": "Go · ★ 16,387 · 🍴 1,519 · 📈 51 stars today",
+      "meta": "Go · ★ 16,391 · 🍴 1,519 · 📈 51 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "多 Agent 工作空间管理器，用于协调和管理多个 AI Agent 的协作环境，提升复杂任务的执行效率。"
+      "summary": "多代理工作空间管理器，用于协调和管理多个 AI 代理的协作任务，提升复杂项目的组织与执行效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "dotnet/skills",
       "url": "https://github.com/dotnet/skills",
       "excerpt": "Repository for skills to assist AI coding agents with .NET and C#",
-      "meta": "C# · ★ 4,042 · 🍴 302 · 📈 246 stars today",
+      "meta": "C# · ★ 4,044 · 🍴 302 · 📈 246 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "微软官方维护的技能库，专为辅助 AI 编程 Agent 理解和使用 .NET 与 C# 语言而设计，提升相关生态的开发效率。"
+      "summary": "微软官方维护的仓库，提供帮助 AI 编程代理理解和使用 .NET 及 C# 语言的技能与上下文，提升 AI 在 .NET 生态下的开发辅助能力。"
     },
     {
       "sourceId": "github-trending",
       "title": "OthmanAdi/planning-with-files",
       "url": "https://github.com/OthmanAdi/planning-with-files",
       "excerpt": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 6",
-      "meta": "Python · ★ 24,714 · 🍴 2,106 · 📈 66 stars today",
+      "meta": "Python · ★ 24,720 · 🍴 2,106 · 📈 66 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于文件的持久化规划工具，专为 AI 编程 Agent 和长周期任务设计，通过 Markdown 计划防止上下文丢失导致任务中断。"
+      "summary": "基于文件的持久化规划工具，专为 AI 编程代理和长期任务设计。通过 Markdown 记录计划，能在上下文丢失或崩溃后恢复进度，支持确定性完成门控。"
     },
     {
       "sourceId": "github-trending",
       "title": "steipete/CodexBar",
       "url": "https://github.com/steipete/CodexBar",
       "excerpt": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "meta": "Swift · ★ 16,224 · 🍴 1,351 · 📈 153 stars today",
+      "meta": "Swift · ★ 16,237 · 🍴 1,352 · 📈 153 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "macOS 菜单栏工具，无需登录即可实时显示 OpenAI Codex 和 Claude Code 的使用统计与配额情况，方便开发者监控 API 调用。"
+      "summary": "菜单栏工具，无需登录即可实时显示 OpenAI Codex 和 Claude Code 的使用统计，方便用户监控 API 调用量和成本。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "excerpt": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "meta": "Python · ★ 136,299 · 🍴 21,906 · 📈 156 stars today",
+      "meta": "Python · ★ 136,304 · 🍴 21,906 · 📈 156 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Anthropic 推出的 AI 编程工具，运行在终端中，能理解代码库、执行常规任务、解释复杂代码并处理 Git 工作流，显著提升编码速度。"
+      "summary": "Anthropic 官方推出的命令行 AI 编程工具，直接运行在终端中。它能理解代码库、执行常规任务、解释复杂代码并处理 Git 工作流，显著提升编程效率。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -245,6 +245,15 @@
       "url": "https://www.v2ex.com/t/1224588",
       "excerpt": "26 回复 · Python 节点",
       "publishedAt": "2026-07-02T10:48:24.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "[从零到一] 一个小尝试，在小红书赚到 3000 元，实战分享",
+      "url": "https://www.v2ex.com/t/1225149",
+      "excerpt": "18 回复 · 程序员 节点",
+      "publishedAt": "2026-07-05T19:17:49.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -281,15 +290,6 @@
       "url": "https://www.v2ex.com/t/1224683",
       "excerpt": "14 回复 · Apple 节点",
       "publishedAt": "2026-07-03T02:21:19.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "[从零到一] 一个小尝试，在小红书赚到 3000 元，实战分享",
-      "url": "https://www.v2ex.com/t/1225149",
-      "excerpt": "13 回复 · 程序员 节点",
-      "publishedAt": "2026-07-05T19:17:49.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -1508,7 +1508,7 @@
       "meta": "👍 47",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 AgenticSTS 测试台，为长视界 LLM Agent 定义受控记忆契约，解决上下文混合问题，旨在评估有限记忆下的决策能力。"
+      "summary": "提出 AgenticSTS 测试平台，针对长周期 LLM Agent 的记忆机制进行评估。它将记忆定义为决策可见性契约，解决了简单拼接过去观察导致的上下文混乱问题，为高效记忆管理提供了测试基准。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1519,7 +1519,7 @@
       "meta": "👍 43",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 EvoPolicyGym 评估框架及「自主策略进化」设置，在交互环境中独立评估策略改进过程，避免结果混淆。"
+      "summary": "提出 EvoPolicyGym 评估框架，用于衡量交互环境中的自主策略演化。该框架将策略改进过程与最终得分分离，在受控设置下评估 Agent 通过反馈优化可执行策略的能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1530,7 +1530,7 @@
       "meta": "👍 39",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出将 Transformer 转换为混合注意力模型的方法，保留部分全注意力层并用线性注意力替代其余层，以提升长上下文效率。"
+      "summary": "提出将 Transformer 转换为混合注意力模型的方法。该研究优化了全注意力层的选择策略，保留关键层并替换其余层为线性注意力，在保持性能的同时显著提升了长上下文处理的效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1541,7 +1541,7 @@
       "meta": "👍 38",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 PerceptionRubrics 评估框架，通过 1,038 张高密度图像进行原子审计，校准多模态模型与人类感知的一致性，解决基准高分而实际脆弱的问题。"
+      "summary": "推出 PerceptionRubrics 评估框架，解决基准分数饱和与现实脆弱性之间的差距。通过从整体语义匹配转向严谨的原子审计，该框架利用高密度图像校准多模态模型与人类感知的一致性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1552,7 +1552,7 @@
       "meta": "👍 29",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "推出 AgenticDataBench，为数据科学智能体提供综合基准，测试从异构数据中提取可执行洞察的能力，以自动化数据流程。"
+      "summary": "提出 AgenticDataBench 基准，用于全面评估数据科学 Agent。该基准覆盖从异构数据中提取洞察的端到端流程，旨在测试 Agent 在复杂数据任务中的自动化能力和实际应用效果。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1563,7 +1563,7 @@
       "meta": "👍 24",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 ELDR 解码路由策略，感知专家局部性以优化 PD 解耦 MoE 服务，在保持负载均衡的同时降低延迟差异。"
+      "summary": "提出 ELDR 路由算法，针对预填充-解码分离的 MoE 模型服务。该方法在负载均衡基础上考虑专家局部性，通过优化解码步骤的权重加载，显著降低了 Worker 间的延迟差异。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1574,7 +1574,7 @@
       "meta": "👍 23",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "发布 Seed2.0 模型系列，基于真实需求构建可靠评估体系，旨在解决复杂现实世界任务，向智能前沿迈进。"
+      "summary": "发布 Seed2.0 模型系列，旨在解决复杂的真实世界任务。该方法通过识别用户真实需求，构建可靠的前瞻性评估系统，推动模型在实际场景中的智能边界和综合能力提升。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1585,7 +1585,7 @@
       "meta": "👍 22",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出非对称互变分学习方法，在连续潜空间进行多模态推理，突破语言瓶颈，保留视觉感知的细微差异。"
+      "summary": "提出非对称互变分学习方法，实现多模态连续推理。该方法通过避免将视觉推理强制离散化为 Token，发现隐式的推理路径，有效缓解了语言空间瓶颈带来的感知细节丢失问题。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1596,7 +1596,7 @@
       "meta": "👍 22",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "推出 MemSyco-Bench 基准，评估 Agent 记忆中的「阿谀」现象，发现检索记忆常导致模型过度对齐用户，而非如实回答。"
+      "summary": "提出 MemSyco-Bench 基准，评估 Agent 记忆中的谄媚现象。研究发现检索记忆往往导致 Agent 过度对齐用户意图，该基准旨在量化这种负面影响并促进更可靠的长期记忆机制设计。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1607,7 +1607,7 @@
       "meta": "👍 21",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 WorldDirector 框架，通过持久化动态记忆和自由视角探索，构建高度可控的视频世界模型，解耦物理动态与像素渲染。"
+      "summary": "推出 WorldDirector 框架，构建具有持久动态记忆的可控视频世界模型。该框架支持无限制视角探索，将物理动力学与像素渲染解耦，实现了对动态物体和场景演化的精细控制。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1618,7 +1618,7 @@
       "meta": "👍 20",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 Step-Aware RL 方法，针对医学多模态推理进行步骤级强化学习，解决现有结果中心式训练的信用分配稀疏问题。"
+      "summary": "提出步骤感知强化学习方法，用于医学多模态推理。该方法克服了现有后训练管道仅关注最终结果的局限，通过细粒度奖励分配，显著提升了复杂临床推理任务的准确率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1629,7 +1629,7 @@
       "meta": "👍 18",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "介绍 ASPIRE 系统，通过迭代机器人探索持续学习技能编程，处理多模态感知和物理接触动态，实现自主技能发现。"
+      "summary": "介绍 ASPIRE 系统，通过迭代机器人探索实现 Agent 技能自主发现。该持续学习系统协调多模态感知与物理接触动力学，能够处理多样配置并从执行失败中恢复，自动习得机器人技能。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1640,7 +1640,7 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 Logit-Contribution Scoring 方法，识别执行「非字面检索」的注意力头，帮助解释长上下文模型综合语义而非复制文本的机制。"
+      "summary": "提出 Logit-Contribution Scoring 方法，识别长上下文模型中的非字面检索头。该方法通过分析注意力头对答案合成的贡献，精确定位那些基于语义理解而非简单复制的关键组件。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1651,7 +1651,7 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 SkillCoach，利用自我进化的标准评估 Agent 技能使用，解决重叠技能库中的可靠调用难题，提供细粒度评估。"
+      "summary": "提出 SkillCoach 框架，利用自进化标准评估和增强 Agent 技能使用。针对重叠技能库的挑战，该框架提供比最终验证更细粒度的反馈，指导 Agent 更可靠地选择和执行技能。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1662,7 +1662,7 @@
       "meta": "👍 14",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 AutoMem 框架，将记忆管理视为可训练的认知技能，自动学习编码、检索和组织知识的元记忆能力。"
+      "summary": "提出 AutoMem 方法，将记忆管理视为可训练的认知技能。受元记忆概念启发，该方法通过自动化学习编码、检索和组织知识策略，赋予 LLM 高级的记忆管理能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1673,7 +1673,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 DiscoBench 基准，测试智能体在复杂信息搜索中的「澄清感知」能力，评估其识别并解决用户查询不完整问题的表现。"
+      "summary": "推出 DiscoBench 基准，测试搜索 Agent 在深度搜索中的澄清意识。该基准针对复杂信息检索任务，评估 Agent 识别模糊查询并主动提问澄清的能力，填补了现有评估的空白。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1684,7 +1684,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出基于图原生的强化学习方法，通过概念重组生成可追溯的科学假设，解决材料发现中推理路径难以追踪的问题。"
+      "summary": "提出图原生强化学习方法，通过概念重组加速科学假设生成。该系统可生成科学有效的多步推理路径，显著提升了材料发现领域中 AI 推理的可追溯性和准确性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1695,7 +1695,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 InstanceControl 方法，无需实例标签即可在复杂多实例场景中实现可控图像生成，解决属性混淆问题。"
+      "summary": "提出 InstanceControl 方法，无需实例标注即可实现可控复杂图像生成。该技术解决了多实例场景中的属性混淆问题，在无需显式标签的情况下实现了对复杂场景的精确控制。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1706,7 +1706,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出「状态预测分离」假设，设计新型 Transformer 变体，将下一词预测与状态存储解耦，从而提升语言建模性能。"
+      "summary": "提出状态-预测分离假设，并设计新型 Transformer 变体。该方法将预测下一个 Token 与存储未来状态的计算流解耦，实验证明这种架构优化能带来更好的语言建模性能。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1717,7 +1717,7 @@
       "meta": "👍 7",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 PACE 代理，作为评估 Agent 能力的低成本替代方案，显著降低 SWE-Bench 等基准测试的计算开销和时间成本。"
+      "summary": "提出 PACE 代理，作为评估 LLM Agent 能力的低成本替代方案。该代理在不需要复杂基础设施和昂贵计算资源的情况下，准确预测模型在 SWE-Bench 等基准上的表现，大幅降低评估成本。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -3025,7 +3025,7 @@
       "category": "tech",
       "meta": "@EXM7777 · 122.0K 粉丝 · 208.2K 阅 · 525 赞 · 47 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分享了如何使用包含25个工作流的库让 Fable 5 自动运行，每个工作流都有特定的 prompt 和配套工具，该方法遵循 Karpathy 的理念。"
+      "summary": "分享 Fable 5 自动化运行教程，包含 25 个工作流库。每个工作流配备具体 Prompt 和接入工具，方法论参考 Karpathy，旨在实现无人值守的任务循环。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -3036,7 +3036,7 @@
       "category": "tech",
       "meta": "@arthurmensch · 74.0K 粉丝 · 162.7K 阅 · 539 赞 · 76 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "呼吁企业领导者使用开源模型，指出闭源模型商强制数据保留将给业务带来巨大风险，强调数据主权的重要性。"
+      "summary": "探讨企业为何必须使用开源模型。指出闭源模型商强制保留数据将给企业带来巨大风险，主张企业应掌控数据主权以维持业务增长。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -3047,7 +3047,7 @@
       "category": "tech",
       "meta": "@EXM7777 · 122.0K 粉丝 · 83.6K 阅 · 518 赞 · 48 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "一步步教程，指导将 Fable 5 打造为深入了解业务的机器，产出区别于他人的独特结果，构建类似第二大脑的系统。"
+      "summary": "教程展示如何将 Fable 5 打造为深度了解业务的「第二大脑」。通过特定工作流输出差异化结果，构建个性化知识库和生成系统。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -3058,7 +3058,7 @@
       "category": "tech",
       "meta": "@addyosmani · 404.9K 粉丝 · 53.5K 阅 · 525 赞 · 66 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "探讨了 Agent 工程从提示词转向操作的趋势，提出了软件工厂、目标循环和后台会话等前沿概念，展望自主性级别。"
+      "summary": "提出 Agent 自主性分级概念。指出工程重心已从 Prompt 转向操作，涵盖软件工厂、目标循环、后台会话等前沿探索方向。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -3069,7 +3069,7 @@
       "category": "tech",
       "meta": "@trq212 · 299.3K 粉丝 · 40.1K 阅 · 534 赞 · 43 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分享了使用 Claude Fable 5 的经验，重申「地图非疆域」的道理，指出 prompt 和技能只是工作表征，需在实践中探索未知。"
+      "summary": "分享 Claude Fable 5 使用心得，强调「地图非疆域」。反思 Prompt、技能与上下文仅是工作地图，需通过工具不断发现未知领域。"
     },
     {
       "sourceId": "ars-technica",
@@ -3079,7 +3079,7 @@
       "publishedAt": "2026-07-05T11:05:22.000Z",
       "category": "tech",
       "source": "Ars Technica",
-      "summary": "近年来造成人员伤亡的化学事故数量增加了近50%，与此同时特朗普政府正提议削弱相关安全规则。"
+      "summary": "特朗普政府提议削弱安全规则，近期致人伤亡的化学品事故数量增加了近 50%。"
     },
     {
       "sourceId": "ars-technica",
@@ -3260,7 +3260,7 @@
       "publishedAt": "2026-07-05T21:35:17.000Z",
       "category": "tech",
       "source": "TechCrunch",
-      "summary": "Uber今年2月宣布的2026年进军7个欧洲新市场的计划受阻，据报道其中5个市场的发布目前已暂停。"
+      "summary": "Uber 曾计划 2026 年进入 7 个欧洲新市场，但据报道其中 5 个市场的发布目前处于暂停状态。"
     },
     {
       "sourceId": "techcrunch",
@@ -3270,7 +3270,7 @@
       "publishedAt": "2026-07-05T20:29:05.000Z",
       "category": "tech",
       "source": "TechCrunch",
-      "summary": "分析显示，近100万人在购买特朗普$TRUMP模因币后总计亏损38亿美元，而特朗普本人获利6.36亿美元。"
+      "summary": "分析显示，近 100 万名购买特朗普 $TRUMP 币的投资者共损失 38 亿美元，而特朗普获利 6.36 亿美元。"
     },
     {
       "sourceId": "techcrunch",
@@ -3280,7 +3280,7 @@
       "publishedAt": "2026-07-05T17:43:36.000Z",
       "category": "tech",
       "source": "TechCrunch",
-      "summary": "亚马逊将停止接受Mechanical Turk平台的新客户，标志着这一众包服务可能即将终结。"
+      "summary": "亚马逊宣布将不再接受 Amazon Mechanical Turk 的新客户注册。"
     },
     {
       "sourceId": "techcrunch",
@@ -3290,7 +3290,7 @@
       "publishedAt": "2026-07-05T15:00:00.000Z",
       "category": "tech",
       "source": "TechCrunch",
-      "summary": "合适的桌面办公设备可以帮助减少杂乱、保持专注，并为日常工作增添便利。"
+      "summary": "推荐 5 款办公桌配件，旨在帮助用户减少杂乱、保持专注并提升工作便利性。"
     },
     {
       "sourceId": "techcrunch",
@@ -3300,7 +3300,7 @@
       "publishedAt": "2026-07-05T13:33:32.000Z",
       "category": "tech",
       "source": "TechCrunch",
-      "summary": "鲜为人知的Bending Spoons公司是AOL和Vimeo的所有者，其产品组合服务已超过10亿用户，现已上市。"
+      "summary": "介绍收购了 AOL 和 Vimeo 的 Bending Spoons 公司，其产品服务用户超 10 亿，现已公开上市。"
     },
     {
       "sourceId": "techcrunch",
@@ -3310,7 +3310,7 @@
       "publishedAt": "2026-07-05T12:47:39.000Z",
       "category": "tech",
       "source": "TechCrunch",
-      "summary": "受AI投资热潮推动，今年截至目前已有近90家初创公司跻身独角兽行列。"
+      "summary": "受 AI 投资热潮推动，今年迄今已涌现近 90 家新晋独角兽公司。"
     },
     {
       "sourceId": "techcrunch",
@@ -3446,7 +3446,7 @@
       "publishedAt": "2026-07-05T22:30:54.000Z",
       "category": "tech",
       "source": "The Verge",
-      "summary": "部分美国富裕阶层正转向利用AI代替传统学校教育子女。尽管大多数美国人并不信任AI，但这并未阻止其在富人群体中的应用。"
+      "summary": "部分美国富裕阶层开始使用 AI 教育子女，而非选择传统学校。"
     },
     {
       "sourceId": "theverge",
@@ -3456,7 +3456,7 @@
       "publishedAt": "2026-07-05T18:30:00.000Z",
       "category": "tech",
       "source": "The Verge",
-      "summary": "Mr. Lif的《Emergency Rations》EP被视为911后最大胆的嘻哈音乐作品之一，具有实验性和突破性。"
+      "summary": "本文回顾了 Mr. Lif 的 EP 专辑《Emergency Rations》，将其视为后 9/11 时期大胆的嘻哈音乐代表。"
     },
     {
       "sourceId": "theverge",
@@ -3466,7 +3466,7 @@
       "publishedAt": "2026-07-05T16:00:00.000Z",
       "category": "tech",
       "source": "The Verge",
-      "summary": "Rockstar的《侠盗猎车手6》将于2026年11月19日登陆PS5和Xbox Series S/X，发售时提供数字版和实体版。"
+      "summary": "Rockstar 的《侠盗猎车手 VI》将于 2026 年 11 月 19 日登陆 PS5 和 Xbox Series S/X，首发提供数字版。"
     },
     {
       "sourceId": "theverge",
@@ -3476,7 +3476,7 @@
       "publishedAt": "2026-07-05T14:23:11.000Z",
       "category": "tech",
       "source": "The Verge",
-      "summary": "谷歌发布的一则新广告想象开国元勋使用AI的场景，引发了争议和批评。"
+      "summary": "Google Workspace 新广告设想美国开国元勋使用 AI 的场景，引发争议和批评。"
     },
     {
       "sourceId": "theverge",
@@ -3486,7 +3486,7 @@
       "publishedAt": "2026-07-05T14:00:00.000Z",
       "category": "tech",
       "source": "The Verge",
-      "summary": "与King Arthur Baking联合开发的Sourdough Sidekick设备，旨在自动化酸种面包烘焙中枯燥的发酵环节。"
+      "summary": "评测与 King Arthur 公司联合开发的 Sourdough Sidekick 设备，它可自动化酸种面包烘焙过程。"
     },
     {
       "sourceId": "theverge",
@@ -3496,7 +3496,7 @@
       "publishedAt": "2026-07-05T13:51:56.000Z",
       "category": "tech",
       "source": "The Verge",
-      "summary": "Keurig胶囊咖啡机的出现改变了办公室咖啡文化，既让人们能随时制作新鲜咖啡，也引发了对咖啡品质的争议。"
+      "summary": "播客探讨 Keurig 胶囊咖啡机如何改变了办公室咖啡文化，既带来了便利也引发了对口味的争议。"
     },
     {
       "sourceId": "theverge",
@@ -3506,7 +3506,7 @@
       "publishedAt": "2026-07-05T13:00:00.000Z",
       "category": "tech",
       "source": "The Verge",
-      "summary": "Vizio推出的65英寸Mini LED Quantum电视售价低于398美元，被认为是市场上性价比最高的非智能电视。"
+      "summary": "评测称 Vizio 65 英寸 Mini LED Quantum TV 售价低于 398 美元，是目前市场上性价比最佳的「傻瓜电视」。"
     },
     {
       "sourceId": "theverge",
@@ -3516,7 +3516,7 @@
       "publishedAt": "2026-07-05T12:00:00.000Z",
       "category": "tech",
       "source": "The Verge",
-      "summary": "一篇专栏文章分析了Xbox目前面临的困境和灾难性的处境，涉及视频游戏行业的现状。"
+      "summary": "专栏文章评论了 Xbox 当前的困境及视频游戏行业的低迷状态。"
     },
     {
       "sourceId": "theverge",
@@ -3733,7 +3733,7 @@
       "publishedAt": "2026-07-06T01:07:38.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "西方海军称霍尔木兹海峡威胁风险巨大，海峡中部已被水雷封锁。油轮正通过美国保护通道穿越该海峡，以避开伊朗军方关注。"
+      "summary": "西方海军称霍尔木兹海峡威胁风险巨大且海峡中心已被布设水雷，油轮正通过美方保护的走廊穿越该海峡，以避开伊朗军方关注。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3743,7 +3743,7 @@
       "publishedAt": "2026-07-05T22:19:05.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "亚洲股市上涨，科技股延续反弹势头，美国股指期货守住周五涨幅，油价小幅下跌。"
+      "summary": "亚洲股市上涨，科技股延续反弹态势带动美国股指期货守住周五涨幅，油价小幅下跌。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3753,7 +3753,7 @@
       "publishedAt": "2026-07-05T22:34:57.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "澳大利亚黄金矿商Genesis Minerals Ltd.发起对Vault Minerals Ltd.的收购要约，交易价值56亿澳元（39亿美元），超越了竞争对手Regis Resources Ltd.此前达成的协议。"
+      "summary": "澳大利亚黄金矿商Genesis Minerals对Vault Minerals发起价值56亿澳元（合39亿美元）的现金加股票收购要约，超过了竞争对手Regis Resources此前达成的协议。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3781,7 +3781,7 @@
       "publishedAt": "2026-07-06T00:00:06.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "分析人士称，随着提振外汇流入的措施出台及强劲经济基本面的支撑，6月表现垫底的马来西亚林吉特有望迎来反弹。"
+      "summary": "分析师称，在6月沦为亚洲表现最差货币后，随着促进外汇流入的措施及强劲经济基本面支撑，林吉特有望反弹。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3791,7 +3791,7 @@
       "publishedAt": "2026-07-06T00:00:01.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "银行家表示，受伊朗战争后续影响持续打压借贷双方信心，亚洲贷款市场进入下半年后仍无明显反弹迹象。"
+      "summary": "银行家表示，受伊朗战争后果持续打击借贷双方信心影响，亚洲贷款市场进入下半年后仍无反弹迹象，前景疲软。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3801,7 +3801,7 @@
       "publishedAt": "2026-07-05T23:53:18.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "近期全球芯片股波动剧烈，投资者正寻求人工智能贸易的新验证。三星电子周二可能会提供相关支持。"
+      "summary": "近期全球芯片股波动剧烈，投资者正寻找人工智能交易的新验证，三星电子周二可能提供这一支撑。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3811,7 +3811,7 @@
       "publishedAt": "2026-07-05T23:21:25.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "随着市场对美联储加息的预期减弱，金价在实现5月以来首次周线上涨后保持稳定。"
+      "summary": "受市场对美联储加息预期降温支撑，金价在实现5月以来首次周上涨后持稳。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3831,7 +3831,7 @@
       "publishedAt": "2026-07-05T23:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "菲律宾副总统莎拉·杜特尔特周一在参议院面临 contentious 审判，此案或将终结其政治生涯，或使其成为接替马科斯的总统热门人选。"
+      "summary": "菲律宾副总统萨拉·杜特尔特周一面临参议院审判，此案可能终结其政治生涯，或使其成为接替总统马科斯的主要竞争者。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3841,7 +3841,7 @@
       "publishedAt": "2026-07-05T23:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "特朗普针对伊朗的战争虽已结束，但其对全球货币政策的后续影响将长期存在，导致全球利率在未来数年内维持高位。"
+      "summary": "尽管唐纳德·特朗普对伊朗的战争可能已经结束，但其对全球货币政策的负面影响将持续，导致全球利率在未来数年维持高位。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -4427,7 +4427,7 @@
       "publishedAt": "2026-07-05T23:18:27.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "受欧盟新数字边境管制系统影响，今夏机场预计将出现排队现象。BBC建议采取三项措施以避免相关成本增加。"
+      "summary": "因欧盟实施新的数字边境管控系统，今夏机场预计将出现排队现象，旅客可采取措施避免边境检查造成额外成本。"
     },
     {
       "sourceId": "bbc-business",
@@ -4437,7 +4437,7 @@
       "publishedAt": "2026-07-06T00:06:42.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "Wegovy减肥药制造商推出的每日一次口服减肥丸，现已在英国药房可供私人购买。"
+      "summary": "Wegovy减肥注射剂制造商推出的每日口服减肥药，现已在英国药房可供私人购买。"
     },
     {
       "sourceId": "bbc-business",
@@ -4978,7 +4978,7 @@
       "publishedAt": "2026-07-05T23:31:04.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "法国国民联盟领袖玛丽娜·勒庞的上诉结果即将公布，这决定了她是否有资格参加2027年总统选举，目前她民调领先。"
+      "summary": "法国国民联盟领导人勒庞在2027年总统选举民调中领先，目前等待上诉宣判，以确定其参选资格。"
     },
     {
       "sourceId": "bbc-world",
@@ -4988,16 +4988,17 @@
       "publishedAt": "2026-07-05T22:01:43.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "作为全球假冒奢侈品中心，越南正在打击其黑市。特朗普政府施压越南取缔蓬勃发展的造假产业，当地民众对此看法不一。"
+      "summary": "越南作为全球假冒奢侈品的集散地，正在打击其黑市。特朗普政府要求越南取缔蓬勃发展的造假产业。"
     },
     {
       "sourceId": "bbc-world",
       "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
       "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
       "excerpt": "Some of the famous guests have been posting on social media about the big day in New York.",
-      "publishedAt": "2026-07-05T15:48:20.000Z",
+      "publishedAt": "2026-07-06T01:20:47.000Z",
       "category": "politics",
-      "source": "BBC World"
+      "source": "BBC World",
+      "summary": "部分名人在社交媒体上分享了关于泰勒·斯威夫特和特拉维斯·凯尔斯在纽约举办婚礼的反应。"
     },
     {
       "sourceId": "bbc-world",
@@ -5007,7 +5008,7 @@
       "publishedAt": "2026-07-06T00:20:20.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "超级台风「巴威」登陆美国太平洋岛屿，风速近290公里/小时，阵风达350公里/小时，正袭击罗塔岛。"
+      "summary": "超强台风「巴维」登陆美国太平洋岛屿，风速近290公里/小时，阵风达350公里/小时，正袭击罗塔岛。"
     },
     {
       "sourceId": "bbc-world",
@@ -5035,7 +5036,7 @@
       "publishedAt": "2026-07-05T23:30:40.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "塞拉利昂渔民指责中国拖网渔船非法大量捕捞，导致当地渔业资源枯竭，生计受到威胁。"
+      "summary": "塞拉利昂渔民指责中国拖网渔船非法捕捞，导致当地鱼类资源枯竭。"
     },
     {
       "sourceId": "bbc-world",
@@ -5234,7 +5235,7 @@
       "publishedAt": "2026-07-05T21:50:42.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "委内瑞拉代总统罗德里格斯为应对6月24日造成3000多人死亡的双地震的紧急措施辩护，尽管遇难人数预计激增，她承诺国家不会陷入动荡。"
+      "summary": "委内瑞拉临时总统罗德里格斯为应对6月24日地震的紧急措施辩护，该地震造成超过3000人死亡，预计遇难人数还将大幅上升。"
     },
     {
       "sourceId": "guardian-world",
@@ -5319,13 +5320,13 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Australia news live: Meta tells antisemitism royal commission it has banned some claims about ‘Zionists’ used to spread conspiracy theories",
+      "title": "Australia news live: PM signs defence pact with Fiji; Meta tells antisemitism inquiry it banned some claims about ‘Zionists’",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/06/australia-news-live-crisafulli-bail-laws-property-market-auction-clearance-tax-reform-prime-minister-albanese-fiji-treaty-royal-commission-meta-antisemitism-ntwnfb",
-      "excerpt": "Meanwhile Queensland premier vows to imprison more youth offenders at party state conference. Follow today’s news live My colleague Josh Butler has a full report into today’s controversy surrounding Anthony Albanese’s podcast appearance. You can read the full debrief here: Meta executives to speak a",
-      "publishedAt": "2026-07-06T01:09:42.000Z",
+      "excerpt": "Vuvale treaty adds to mutual defence pacts with US, New Zealand and Papua New Guinea. Follow today’s news live My colleague Josh Butler has a full report into today’s controversy surrounding Anthony Albanese’s podcast appearance. You can read the full debrief here: Meta executives to speak at royal ",
+      "publishedAt": "2026-07-06T01:21:56.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "Meta向反犹太主义皇家委员会表示，已封禁用于传播阴谋论的部分关于「犹太复国主义者」的言论。昆士兰州州长承诺监禁更多年轻罪犯。"
+      "summary": "澳大利亚总理与斐济签署国防协议，增加与美国、新西兰和巴布亚新几内亚的互防条约。Meta高管在反犹太主义调查中承认，禁止了部分关于「犹太复国主义者」的主张。"
     },
     {
       "sourceId": "guardian-world",
@@ -5335,7 +5336,7 @@
       "publishedAt": "2026-07-05T22:26:55.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳大利亚总理阿尔巴尼斯就其在喜剧播客中涉及歌手凯莉·米洛的不当评论「毫无保留地」道歉。"
+      "summary": "澳大利亚总理安东尼·阿尔巴尼斯就其在喜剧播客中关于歌手凯莉·米洛的评论「毫无保留地」道歉。"
     },
     {
       "sourceId": "guardian-world",
@@ -5570,7 +5571,7 @@
       "publishedAt": "2026-07-06T00:41:42.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "美国女子Kelsey Pfendler完成单人划船从加利福尼亚至夏威夷的壮举，全程超过2300英里，耗时不到44天，创造了新纪录。"
+      "summary": "美国女子凯尔西·芬德勒独自划船从加利福尼亚前往夏威夷，全程约2300英里，耗时不足44天。"
     },
     {
       "sourceId": "nyt-world",
@@ -5580,7 +5581,7 @@
       "publishedAt": "2026-07-05T22:44:52.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "以色列内阁通过决议威胁无视最高法院裁决，加剧了总理内塔尼亚胡与司法部门间的长期冲突，随后政府官员对此进行了淡化处理。"
+      "summary": "以色列内阁通过决议威胁无视最高法院裁决，升级了内塔尼亚胡总理与司法机构的长期冲突。一名高级官员随后撤回了该表态。"
     },
     {
       "sourceId": "nyt-world",
@@ -5742,8 +5743,7 @@
       "excerpt": "As NATO leaders gather for this week's summit in Turkey, Europe is preparing to shoulder more of its own defense. David M. Cattler of the Center for European Policy Analysis explains why.",
       "publishedAt": "2026-07-05T21:03:40.000Z",
       "category": "politics",
-      "source": "NPR World",
-      "summary": "北约领导人在土耳其举行年度峰会并寻求团结，欧洲正准备承担更多防务责任，特朗普出席了此次峰会。"
+      "source": "NPR World"
     },
     {
       "sourceId": "npr-world",
@@ -6104,7 +6104,7 @@
       "publishedAt": "2026-07-06T00:00:00.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "德黑兰正准备为遇刺的伊朗最高领袖哈梅内伊举行葬礼游行，预计数百万人将参加。"
+      "summary": "德黑兰准备为遇害的最高领袖阿里·哈梅内伊举行葬礼游行，预计数百万人参加。"
     },
     {
       "sourceId": "aljazeera",
@@ -6114,7 +6114,7 @@
       "publishedAt": "2026-07-05T22:48:13.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "委内瑞拉代总统德尔西·罗德里格斯在独立日发表讲话，再次为政府应对6月24日致命地震的处理方式辩护。"
+      "summary": "委内瑞拉临时总统德尔西·罗德里格斯在独立日讲话中表示，政府妥善处理了6月24日的致命地震，不会发生社会动乱。"
     },
     {
       "sourceId": "aljazeera",
@@ -6124,7 +6124,7 @@
       "publishedAt": "2026-07-05T22:41:40.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "前消防员赫苏斯·加西亚在6月24日委内瑞拉地震后，从废墟中救出了父亲和弟弟。"
+      "summary": "6月24日地震后，前消防员赫苏斯·加西亚在废墟中成功救出了父亲和弟弟。"
     },
     {
       "sourceId": "aljazeera",
@@ -6143,7 +6143,7 @@
       "publishedAt": "2026-07-05T22:03:52.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "以色列军队阻止紧急医疗救治后，一名巴勒斯坦婴儿在约旦河西岸死亡；以军还枪杀了一名16岁男孩，并在加沙杀害了两名巴勒斯坦人。"
+      "summary": "一名巴勒斯坦婴儿在以色列阻止紧急医疗救治后于约旦河西岸死亡。以军还在西岸枪杀一名16岁男孩，并在加沙杀害两名巴勒斯坦人。"
     },
     {
       "sourceId": "aljazeera",
@@ -6153,7 +6153,7 @@
       "publishedAt": "2026-07-05T21:42:48.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "土耳其筹备22年来首次主办北约峰会，成员国领导人预计于7月7日抵达土耳其。"
+      "summary": "土耳其正准备于7月7日举办22年来首次北约峰会，各成员国领导人将出席。"
     },
     {
       "sourceId": "aljazeera",
