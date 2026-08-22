@@ -1,142 +1,134 @@
 {
-  "hero_headline": "TikTok 罚款 4 亿美元，OpenAI 推出 AI Futures",
-  "daily_overview": "科技领域，OpenAI 推出 AI Futures 探索变革性影响，GitHub 上“工程师技能图谱”引发关注，TikTok 因儿童隐私问题支付 4 亿美元天价罚款。财经方面，美国国债突破 40 万亿美元大关，借贷成本持续上升，加美贸易谈判面临最后期限。时政方面，伊朗总统呼吁结束对美战争，澳大利亚通过新法要求科技巨头为新闻内容付费，俄乌冲突再次升级。",
+  "hero_headline": "TikTok 支付 4 亿美元创纪录和解金",
+  "daily_overview": "科技领域，AI 代理与 Agent 技术持续演进，OpenAI 与 DeepMind 推出新研究，TikTok 因非法收集儿童数据支付 4 亿美元罚单；财经方面，美加关税谈判进入最后倒计时，美国债务突破 40 万亿美元推升借贷成本，AI 对工资结构的影响引发关注；时政领域，俄军无人机袭击乌克兰购物中心致 16 人死亡，欧盟谴责其为恐怖行为，荷兰监管机构因自动封禁司机对 Uber 处以 9.66 亿美元重罚。",
   "tech_briefs": [
     {
-      "title": "TikTok 支付 4 亿美元和解儿童隐私诉讼",
+      "title": "TikTok 支付 4 亿美元儿童隐私和解金",
       "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Technology",
-      "summary": "TikTok 和字节跳动因非法收集 13 岁以下用户大量数据，同意支付 4 亿美元达成和解，这是此类案件中最大规模的罚款之一。",
-      "importance": 9
+      "summary": "TikTok 和字节跳动因非法收集 13 岁以下用户大量数据，达成支付 4 亿美元的和解协议，这是美国同类案件中金额最大的之一。（多家报道）",
+      "importance": 10
     },
     {
-      "title": "OpenAI 推出 AI Futures 探索社会影响",
+      "title": "OpenAI 推出 AI Futures 新博客",
       "url": "https://openai.com/index/introducing-ai-futures",
       "source": "OpenAI News",
-      "summary": "OpenAI 开启新博客专栏 AI Futures，旨在探讨变革性 AI 如何重塑权力结构、治理模式、经济体系及个人自由，引发业界对 AI 治理的深层思考。",
+      "summary": "OpenAI 开设新博客板块，旨在探讨变革性 AI 如何重塑权力结构、治理体系、经济模式及个人自由，重点关注长期影响。",
       "importance": 8
     },
     {
-      "title": "GitHub 热门项目：工程师技能实战图谱",
-      "url": "https://github.com/mattpocock/skills",
-      "source": "GitHub Trending",
-      "summary": "该项目汇集了真实工程场景下的实战技能，直接源自作者的 .agents 目录，为开发者提供了构建 AI 应用和软件工程的基础学习路径，备受社区追捧。",
+      "title": "DeepMind 公布 15 年游戏 AI 研究进展",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "DeepMind Blog",
+      "summary": "Google DeepMind 回顾从 Atari 到 EVE Online 的 15 年研究历程，宣布与游戏工作室合作，利用原型突破性 AI 游戏玩法推动技术边界。",
       "importance": 7
     },
     {
-      "title": "DeepMind 深耕 15 年 AI 游戏研究",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "source": "DeepMind Blog",
-      "summary": "Google DeepMind 回顾了从 Atari 到 EVE Online 的 15 年 AI 游戏研究历程，并宣布与游戏工作室合作，旨在通过原型开发突破性的 AI 游戏玩法。",
-      "importance": 6
-    },
-    {
-      "title": "Hugging Face 发布长文本优化新算法",
-      "url": "https://huggingface.co/papers/2608.19758",
-      "source": "HuggingFace Trending Papers",
-      "summary": "FlashPrefill V2 提出块稀疏预填充注意力机制，有效解决了长上下文大模型服务中的计算瓶颈，显著提升了推理效率。",
+      "title": "GitHub 热榜：Skills for Real Engineers",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending",
+      "summary": "这是一个从作者 .agents 目录中提取的技能集合，主要定义了高级工程师在构建 AI 代理和应用时所需的实际技能清单与配置。",
       "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "美国国债总额历史性突破 40 万亿美元",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss",
-      "source": "Al Jazeera",
-      "summary": "美国国家债务正式突破 40 万亿美元大关，且增长速度惊人，引发了经济学家对借贷成本上升及财政可持续性的深切担忧。",
-      "importance": 10
-    },
-    {
-      "title": "加美贸易谈判面临午夜最后期限",
+      "title": "美加关税谈判面临午夜最后期限",
       "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-deal.html",
       "source": "NYT World",
-      "summary": "加拿大谈判人员在华盛顿做最后努力，以期达成协议避免新关税，但总理 Mark Carney 在国内面临 tough sell，需在最后期限前争取民众支持。",
+      "summary": "加拿大谈判人员在华盛顿赶在周五午夜最后期限前敲定协议，试图阻止新关税并改善现有条款，Mark Carney 回国面临艰难推销。",
       "importance": 9
     },
     {
-      "title": "美国借贷成本上升，缓解措施短暂",
+      "title": "美国借贷成本攀升国债破 40 万亿",
       "url": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "随着美国国债突破 40 万亿美元，经济学家持续担忧借贷水平，尽管试图降低利率，但借贷成本上升的趋势似乎难以逆转。",
-      "importance": 8
+      "summary": "随着美国国家债务突破 40 万亿美元，经济学家对借贷水平持续表示担忧，试图降低利率的努力证明是短暂的，借贷成本再次上升。",
+      "importance": 9
     },
     {
-      "title": "摩德纳与默克抗癌疫苗带来新希望",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-21/moderna-merck-cancer-vax-gives-hope-video",
+      "title": "AI 开始冲击工资而非单纯导致裁员",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-week-ai-hits-wages-colorado-river-crisis-video",
       "source": "Bloomberg Markets",
-      "summary": "科学家利用 mRNA 技术开发抗癌疫苗取得进展，摩德纳与默克合作的产品有望教导免疫系统识别并摧毁癌细胞，引发市场关注。",
+      "summary": "华尔街周报指出，早期数据显示 AI 目前尚未引发大规模裁员，但已经开始对工资结构产生实质性影响，企业被建议制定 AI 应用的“B 计划”。",
       "importance": 7
     },
     {
-      "title": "特朗普允许部分碎牛肉进口关税减免",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-21/trump-allows-tariff-relief-for-some-ground-beef-imports-video",
+      "title": "墨西哥乐观有望降低美汽车钢铁关税",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-22/mexico-optimistic-it-can-achieve-lower-us-tariffs-on-cars-steel",
       "source": "Bloomberg Markets",
-      "summary": "为降低美国消费者的生活成本，特朗普总统批准允许最高 30 万吨碎牛肉进口关税减免，旨在通过增加供应来压低国内价格。",
+      "summary": "墨西哥首席谈判代表表示乐观，认为有望从美国获得对墨西哥汽车和钢铁出口负担较轻的关税条款，类似于华盛顿正在讨论的修订措施。",
       "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "澳大利亚通过新法强制科技为新闻付费",
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5939814/big-tech-companies-will-have-to-pay-to-publish-australian-news-content-under-new-laws",
-      "source": "NPR World",
-      "summary": "澳大利亚立法要求 Google 和 Meta 等大型科技平台必须与新闻出版商达成协议，否则需对其广告收入缴纳税费，以保护本地新闻业。",
-      "importance": 8
-    },
-    {
-      "title": "伊朗总统称应在“优势地位”结束对美战争",
-      "url": "https://www.dw.com/zh/伊朗总统：是时候结束战争了/a-78460411?maca=chi-rss-chi-all-1127-rdf",
-      "source": "DW 中文",
-      "summary": "伊朗总统佩泽希齐扬表示，鉴于德黑兰目前相对于华盛顿处于优势地位，是时候结束战争了，此前特朗普曾威胁发动前所未有的“经济战”。",
-      "importance": 8
-    },
-    {
-      "title": "俄军无人机袭击乌克兰商场致 15 人死亡",
+      "title": "俄军无人机袭击乌购物中心致 16 人死亡",
       "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "summary": "俄罗斯对乌克兰一家购物中心发动“双重打击”无人机袭击，造成至少 15 人死亡、130 人受伤，其中包括 23 名儿童，冲突进一步升级。",
-      "importance": 9
+      "summary": "俄军对乌克兰 Kryvyi Rih 的一家购物中心发动“双重打击”无人机袭击，造成至少 16 人死亡，130 人受伤，欧盟外长称这是“有预谋的恐怖行为”。",
+      "importance": 10
+    },
+    {
+      "title": "澳大利亚立法强制科技巨头为新闻付费",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5939814/big-tech-companies-will-have-to-pay-to-publish-australian-news-content-under-new-laws",
+      "source": "NPR World",
+      "summary": "澳大利亚通过新法律，要求 Google 和 Meta 等大型科技平台必须与澳大利亚新闻出版商达成协议，否则需对其广告收入缴纳税费。",
+      "importance": 8
+    },
+    {
+      "title": "荷兰重罚 Uber 9.66 亿美元",
+      "url": "https://www.theguardian.com/technology/2026/aug/21/netherlands-fines-uber-automated-driver-suspensions",
+      "source": "The Guardian",
+      "summary": "荷兰数据保护局因 Uber 自动化暂停司机的算法违反隐私规则，对其处以 8.25 亿欧元（9.66 亿美元）的巨额罚款，这是此类案件中极为罕见的重罚。",
+      "importance": 7
     }
   ],
-  "editor_note": "科技巨头在合规与创新间艰难平衡，地缘政治阴云未散，全球债务红线已破，投资者需警惕风险传导。",
+  "editor_note": "科技监管风暴愈演愈烈，从儿童隐私到算法透明度，巨头的合规成本正在急剧上升。",
   "keywords": [
-    "AI治理",
-    "TikTok罚款",
-    "美国国债",
-    "加美贸易",
-    "伊朗",
-    "俄乌冲突",
-    "科技监管"
+    "TikTok 罚款",
+    "美加关税谈判",
+    "AI 代理",
+    "乌克兰战争",
+    "Uber 罚款",
+    "美国债务",
+    "澳大利亚新闻法"
   ],
   "trading": {
-    "market_overview": "当前市场呈现明显的「股债跷跷板」与「资产分野」特征。美股方面，SPY 与 NVDA 维持多头排列，但部分权重股如 META 呈现空头排列，且 SPY 与 QQQ 均现 MACD 死叉，显示短期动能有衰减迹象。加密货币市场极其亢奋，BTC 与 ETH 近 5 日涨幅均超 20%，RSI 分别达到 85.8 和 88.2 的严重超买区，配合「贪婪」的恐慌指数（71），短期热度极高。中概股整体疲弱，BABA 单日大跌 8.57%。商品端，黄金期货 RSI 达 75 进入超买且强势突破 SMA20，而原油呈现多头排列。宏观上，10Y 美债收益率飙升至 4.74 接近 52 周高点，美元兑人民币则处于 RSI 17.1 的深度超卖状态。",
+    "market_overview": "当前市场呈现显著分化。美股方面，SPY 处于多头排列但 MACD 出现死叉，纳指 QQQ 技术面偏中性；科技巨头中 TSLA 单日涨逾 5%，META 则受制于空头排列。加密货币市场极度活跃，总市值达 2.65 万亿美元，恐慌贪婪指数 71（贪婪），BTC 与 ETH 均进入 RSI 超买区且 MACD 金叉，短期动量强劲。中概股整体承压，BABA 单日跌幅较大。商品外汇方面，黄金期货 RSI 达 75 进入超买，原油维持多头排列，而美元/人民币 RSI 仅为 17.1，显示超卖状态。",
     "watchlist": [
       {
         "symbol": "BTC-USD",
-        "display_name": "比特币",
+        "display_name": "Bitcoin (BTC-USD)",
         "stance": "偏上行",
-        "rationale": "价格 5 日大涨 24.37%，RSI 高达 85.8 处于严重超买状态，MACD 金叉且柱线数值达 1905，动能强劲，短期技术面虽有过热迹象但趋势仍偏多。"
+        "rationale": "价格 5 日大涨 23.95%，RSI 高达 85.6 处于超买状态，MACD 快慢线形成金叉且柱状线扩张，短期动量极为强劲，技术上呈现多头主导态势。"
+      },
+      {
+        "symbol": "USDCNY=X",
+        "display_name": "美元 / 人民币",
+        "stance": "偏下行",
+        "rationale": "RSI 低至 17.1，触及严重超卖区域；价格处于空头排列中，且接近 52 周低点。虽然指标显示超卖，但当前技术形态明确指向下行趋势。"
+      },
+      {
+        "symbol": "TSLA",
+        "display_name": "Tesla (TSLA)",
+        "stance": "中性",
+        "rationale": "股价单日上涨 5.14%，RSI 为 58 处于正常区间。尽管短期反弹强劲，但均线仍呈空头排列，MACD 尚未金叉，趋势仍处于多空转换的震荡状态。"
       },
       {
         "symbol": "GC=F",
         "display_name": "黄金期货",
-        "stance": "偏上行",
-        "rationale": "价格单日上涨 3.22% 突破 SMA20，RSI 达 75 进入超买区域，MACD 金叉且红柱放大，显示多头力量显著增强，当前技术读数支持上行趋势。"
+        "stance": "中性",
+        "rationale": "价格突破 4600 关口，RSI 达 75 表明短期超买；MACD 虽为正值但处于强势区。鉴于指标显示过热迹象，需警惕技术性回撤，当前状态偏强势震荡。"
       },
       {
         "symbol": "META",
         "display_name": "Meta",
         "stance": "偏下行",
-        "rationale": "价格处于空头排列，5 日下跌 6.77%，RSI 为 38.7 接近弱势区，且 MACD 死叉伴随绿柱放大，技术指标显示短期抛压较重。"
-      },
-      {
-        "symbol": "USDCNY=X",
-        "display_name": "美元 / 人民币",
-        "stance": "中性",
-        "rationale": "RSI 仅 17.1 处于深度超卖，价格接近 52 周低点，且处于空头排列中，显示下跌动量过度释放，技术上存在反弹修正需求，当前为超卖后的中性状态。"
+        "rationale": "股价处于空头排列，RSI 为 38.7 接近弱势区；MACD 死叉且绿柱持续，显示抛压较重。尽管距离 52 周低点尚有距离，但技术图形缺乏反弹信号。"
       }
     ],
-    "risk_caveat": "本报告基于历史价格数据与客观技术指标进行解读，旨在分析市场状态而非预测未来。过去走势不代表未来表现，技术信号可能随时失效，报告内容仅供技术指标解读参考，不构成任何投资建议。",
+    "risk_caveat": "本报告内容仅供技术指标解读参考，不构成任何投资建议。过去走势不代表未来表现，市场存在不确定性，技术指标可能随时失效，请读者独立判断并自负风险。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -294,7 +286,7 @@
         "pct1Day": 1.2181836993839044,
         "pct5Day": -0.31222720888731376,
         "pct52WeekHigh": -15.611463253469083,
-        "pct52WeekLow": 71.29657228017882,
+        "pct52WeekLow": 67.97544816835541,
         "sma20": 348.3969985961914,
         "sma50": 351.76919921875,
         "sma200": 333.0252995300293,
@@ -371,18 +363,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 78128.21,
-        "pct1Day": 6.976940677198265,
-        "pct5Day": 24.371038035764542,
-        "pct52WeekHigh": -38.09080439978202,
-        "pct52WeekLow": 35.29217736319013,
-        "sma20": 65359.39921875,
-        "sma50": 64566.416484375,
-        "sma200": 68972.55798828125,
-        "rsi14": 85.84641906760926,
-        "macd": 1905.9406755155796,
-        "macdSignal": 543.6417933286554,
-        "macdHistogram": 1362.2988821869244,
+        "currentPrice": 77863.39,
+        "pct1Day": 6.614336267982485,
+        "pct5Day": 23.949475346786617,
+        "pct52WeekHigh": -38.30064913037102,
+        "pct52WeekLow": 34.83359685290682,
+        "sma20": 65346.158203125,
+        "sma50": 64561.120078125,
+        "sma200": 68971.23388671875,
+        "rsi14": 85.6399280406817,
+        "macd": 1884.8154084215494,
+        "macdSignal": 539.4167399098493,
+        "macdHistogram": 1345.3986685117002,
         "trend": "neutral",
         "rsiState": "overbought",
         "signals": [
@@ -403,18 +395,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 2509.92,
-        "pct1Day": 7.889289729151576,
-        "pct5Day": 33.937905750383635,
-        "pct52WeekHigh": -49.33275572179607,
-        "pct52WeekLow": 66.60541012224516,
-        "sma20": 1961.09736328125,
-        "sma50": 1893.4020166015625,
-        "sma200": 2004.387261352539,
-        "rsi14": 88.21375099323636,
-        "macd": 101.2231302535829,
-        "macdSignal": 41.941418166201956,
-        "macdHistogram": 59.28171208738094,
+        "currentPrice": 2517.58,
+        "pct1Day": 8.21855598438094,
+        "pct5Day": 34.34666951896905,
+        "pct52WeekHigh": -49.17812486058494,
+        "pct52WeekLow": 67.11387152401747,
+        "sma20": 1961.48037109375,
+        "sma50": 1893.5552197265624,
+        "sma200": 2004.425562133789,
+        "rsi14": 88.33303563765341,
+        "macd": 101.83419684902424,
+        "macdSignal": 42.06363148529022,
+        "macdHistogram": 59.770565363734015,
         "trend": "neutral",
         "rsiState": "overbought",
         "signals": [
@@ -435,18 +427,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 93.52,
-        "pct1Day": 6.712991116981833,
-        "pct5Day": 25.46449377879868,
-        "pct52WeekHigh": -63.06621502555786,
-        "pct52WeekLow": 54.796711794741405,
-        "sma20": 77.07467994689941,
-        "sma50": 76.88268676757812,
-        "sma200": 81.14892196655273,
-        "rsi14": 82.95415399289772,
-        "macd": 2.8391651338656203,
-        "macdSignal": 0.9927563353936397,
-        "macdHistogram": 1.8464087984719806,
+        "currentPrice": 93.68,
+        "pct1Day": 6.8955625303556385,
+        "pct5Day": 25.67914646276584,
+        "pct52WeekHigh": -63.00302634296684,
+        "pct52WeekLow": 55.06154791415073,
+        "sma20": 77.08268013000489,
+        "sma50": 76.88588684082032,
+        "sma200": 81.14972198486328,
+        "rsi14": 83.06110462506444,
+        "macd": 2.8519289587632244,
+        "macdSignal": 0.9953091003731606,
+        "macdHistogram": 1.8566198583900637,
         "trend": "neutral",
         "rsiState": "overbought",
         "signals": [
@@ -560,7 +552,7 @@
         "pct1Day": 3.2172398112652365,
         "pct5Day": 6.419507440537407,
         "pct52WeekHigh": -16.551501915434454,
-        "pct52WeekLow": 39.17716605959277,
+        "pct52WeekLow": 38.49079025549615,
         "sma20": 4280.054968261718,
         "sma50": 4176.693994140625,
         "sma200": 4498.857487792969,
@@ -737,13 +729,13 @@
       "timestamp": "2026-08-22T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2664873732750.7324,
-      "total24hVolumeUsd": 174019297656.48016,
-      "marketCapChangePct24h": 4.08580405351646,
-      "btcDominance": 58.98796671822558,
-      "ethDominance": 11.394197676333665,
+      "totalMarketCapUsd": 2649713471330.61,
+      "total24hVolumeUsd": 168842095308.29718,
+      "marketCapChangePct24h": 2.9720502334748016,
+      "btcDominance": 58.75968104984136,
+      "ethDominance": 11.410516881509597,
       "activeCryptocurrencies": 18610
     },
-    "generated_at": "2026-08-22T00:04:31.133Z"
+    "generated_at": "2026-08-22T01:54:33.091Z"
   }
 }
